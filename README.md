@@ -1,3 +1,5 @@
+**Make sure you have python installed**
+
 # KiwiIRC-Start-Script-
 KiwiIRC Start Script
 I made this to start KiwiIRC on Reboots
